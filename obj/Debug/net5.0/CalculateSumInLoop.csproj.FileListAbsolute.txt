@@ -1,0 +1,16 @@
+C:\Users\Ivan\source\repos\CalculateSumInLoop\CalculateSumInLoop\bin\Debug\net5.0\CalculateSumInLoop.exe
+C:\Users\Ivan\source\repos\CalculateSumInLoop\CalculateSumInLoop\bin\Debug\net5.0\CalculateSumInLoop.deps.json
+C:\Users\Ivan\source\repos\CalculateSumInLoop\CalculateSumInLoop\bin\Debug\net5.0\CalculateSumInLoop.runtimeconfig.json
+C:\Users\Ivan\source\repos\CalculateSumInLoop\CalculateSumInLoop\bin\Debug\net5.0\CalculateSumInLoop.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\CalculateSumInLoop\CalculateSumInLoop\bin\Debug\net5.0\CalculateSumInLoop.dll
+C:\Users\Ivan\source\repos\CalculateSumInLoop\CalculateSumInLoop\bin\Debug\net5.0\ref\CalculateSumInLoop.dll
+C:\Users\Ivan\source\repos\CalculateSumInLoop\CalculateSumInLoop\bin\Debug\net5.0\CalculateSumInLoop.pdb
+C:\Users\Ivan\source\repos\CalculateSumInLoop\CalculateSumInLoop\obj\Debug\net5.0\CalculateSumInLoop.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\CalculateSumInLoop\CalculateSumInLoop\obj\Debug\net5.0\CalculateSumInLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\CalculateSumInLoop\CalculateSumInLoop\obj\Debug\net5.0\CalculateSumInLoop.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\CalculateSumInLoop\CalculateSumInLoop\obj\Debug\net5.0\CalculateSumInLoop.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\CalculateSumInLoop\CalculateSumInLoop\obj\Debug\net5.0\CalculateSumInLoop.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\CalculateSumInLoop\CalculateSumInLoop\obj\Debug\net5.0\CalculateSumInLoop.dll
+C:\Users\Ivan\source\repos\CalculateSumInLoop\CalculateSumInLoop\obj\Debug\net5.0\ref\CalculateSumInLoop.dll
+C:\Users\Ivan\source\repos\CalculateSumInLoop\CalculateSumInLoop\obj\Debug\net5.0\CalculateSumInLoop.pdb
+C:\Users\Ivan\source\repos\CalculateSumInLoop\CalculateSumInLoop\obj\Debug\net5.0\CalculateSumInLoop.genruntimeconfig.cache
